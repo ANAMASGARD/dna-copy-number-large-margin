@@ -1,0 +1,161 @@
+linetype	fill	xmin	xmax	showSelected1	showSelected2	showSelected3	showSelected4
+3	#FF7D7D	140.080934	201.712984	4.2	1	false negative	1breakpoint
+3	#FF7D7D	9.346283	80.316522	4.2	1	false negative	1breakpoint
+3	#FF7D7D	140.080934	201.712984	4.2	2	false negative	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	2	correct	1breakpoint
+0	#FF7D7D	140.080934	201.712984	4.2	3	correct	1breakpoint
+3	#FF7D7D	9.346283	80.316522	4.2	3	false negative	1breakpoint
+0	#FF7D7D	140.080934	201.712984	4.2	4	correct	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	4	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	5	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	5	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	6	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	6	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	7	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	7	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	8	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	8	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	9	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	9	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	10	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	10	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	11	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	11	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	12	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	12	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	13	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	13	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	14	false positive	1breakpoint
+0	#FF7D7D	9.346283	80.316522	4.2	14	correct	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	15	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	15	false positive	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	16	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	16	false positive	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	17	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	17	false positive	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	18	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	18	false positive	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	19	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	19	false positive	1breakpoint
+1	#FF7D7D	140.080934	201.712984	4.2	20	false positive	1breakpoint
+1	#FF7D7D	9.346283	80.316522	4.2	20	false positive	1breakpoint
+0	#F6F4BF	55.103411	161.55877	11.2	1	correct	0breakpoints
+0	#F6F4BF	55.103411	161.55877	11.2	2	correct	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	3	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	4	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	5	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	6	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	7	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	8	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	9	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	10	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	11	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	12	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	13	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	14	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	15	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	16	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	17	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	18	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	19	false positive	0breakpoints
+1	#F6F4BF	55.103411	161.55877	11.2	20	false positive	0breakpoints
+3	#FF7D7D	38.525107	95.564984	4.3	1	false negative	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	2	correct	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	3	correct	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	4	correct	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	5	correct	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	6	correct	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	7	false positive	1breakpoint
+0	#FF7D7D	38.525107	95.564984	4.3	8	correct	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	9	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	10	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	11	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	12	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	13	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	14	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	15	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	16	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	17	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	18	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	19	false positive	1breakpoint
+1	#FF7D7D	38.525107	95.564984	4.3	20	false positive	1breakpoint
+0	#F6F4BF	80.139652	180.580302	4.5	1	correct	0breakpoints
+0	#F6F4BF	80.139652	180.580302	4.5	2	correct	0breakpoints
+0	#F6F4BF	80.139652	180.580302	4.5	3	correct	0breakpoints
+0	#F6F4BF	80.139652	180.580302	4.5	4	correct	0breakpoints
+0	#F6F4BF	80.139652	180.580302	4.5	5	correct	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	6	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	7	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	8	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	9	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	10	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	11	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	12	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	13	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	14	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	15	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	16	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	17	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	18	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	19	false positive	0breakpoints
+1	#F6F4BF	80.139652	180.580302	4.5	20	false positive	0breakpoints
+3	#FF7D7D	40.489367	109.068985	1.7	1	false negative	1breakpoint
+0	#FF7D7D	40.489367	109.068985	1.7	2	correct	1breakpoint
+0	#FF7D7D	40.489367	109.068985	1.7	3	correct	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	4	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	5	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	6	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	7	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	8	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	9	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	10	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	11	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	12	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	13	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	14	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	15	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	16	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	17	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	18	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	19	false positive	1breakpoint
+1	#FF7D7D	40.489367	109.068985	1.7	20	false positive	1breakpoint
+0	#F6F4BF	34.972003	103.694899	11.8	1	correct	0breakpoints
+0	#F6F4BF	34.972003	103.694899	11.8	2	correct	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	3	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	4	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	5	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	6	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	7	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	8	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	9	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	10	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	11	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	12	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	13	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	14	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	15	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	16	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	17	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	18	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	19	false positive	0breakpoints
+1	#F6F4BF	34.972003	103.694899	11.8	20	false positive	0breakpoints
+0	#F6F4BF	20.997136	107.898044	10.9	1	correct	0breakpoints
+0	#F6F4BF	20.997136	107.898044	10.9	2	correct	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	3	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	4	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	5	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	6	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	7	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	8	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	9	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	10	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	11	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	12	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	13	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	14	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	15	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	16	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	17	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	18	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	19	false positive	0breakpoints
+1	#F6F4BF	20.997136	107.898044	10.9	20	false positive	0breakpoints
