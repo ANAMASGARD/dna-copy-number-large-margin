@@ -1074,6 +1074,6 @@
 ] 
 } 
 },
-"source": "https://github.com/tdhock/animint/blob/master/inst/examples/intreg.R",
+"source": "https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R",
 "title": "Max-margin interval regression for supervised segmentation model selection" 
 }
