@@ -504,7 +504,7 @@
 },
 "plots": {
  "signal": {
- "panel_margin_lines":     0.25,
+ "panel_margin_lines":     0.27,
 "legend": {
  "error.type": {
  "guide": "legend",
@@ -514,8 +514,8 @@
 "selector": "error.type",
 "is_discrete": true,
 "legend_type": "linetype",
-"text_size": "8.8pt",
-"title_size": "11pt",
+"text_size": "9.6pt",
+"title_size": "12pt",
 "entries": [
  {
  "polygonlinetype":        0,
@@ -551,8 +551,8 @@
 "selector": "annotation",
 "is_discrete": true,
 "legend_type": "fill",
-"text_size": "8.8pt",
-"title_size": "11pt",
+"text_size": "9.6pt",
+"title_size": "12pt",
 "entries": [
  {
  "polygonfill": "#F6F4BF",
@@ -598,15 +598,20 @@
 "height_proportion": [        1 ] 
 },
 "panel_background": {
- "fill": "#EBEBEB",
+ "fill": "#FFFFFF",
 "colour": "transparent",
 "size":      0.5,
 "linetype":        1 
 },
-"panel_border": [],
-"grid_major": {
- "colour": "#FFFFFF",
+"panel_border": {
+ "fill": "transparent",
+"colour": "#7F7F7F",
 "size":      0.5,
+"linetype":        1 
+},
+"grid_major": {
+ "colour": "#E5E5E5",
+"size":      0.2,
 "linetype":        1,
 "lineend": "butt",
 "loc": {
@@ -627,8 +632,8 @@
 } 
 },
 "grid_minor": {
- "colour": "#FFFFFF",
-"size":     0.25,
+ "colour": "#FAFAFA",
+"size":      0.5,
 "linetype":        1,
 "lineend": "butt",
 "loc": {
@@ -665,7 +670,7 @@
 "200" 
 ],
 "xrange": [ -12.12105, 254.9402 ],
-"xline": true,
+"xline": false,
 "xticks": true,
 "y": [
        -2,
@@ -680,19 +685,19 @@
 "1" 
 ],
 "yrange": [ -2.131741, 1.395082 ],
-"yline": true,
+"yline": false,
 "yticks": true 
 },
 "xtitle": "position on chromosome (mega base pairs)",
-"xtitle_size": "11pt",
-"strip_text_xsize": "11pt",
-"xsize": "11pt",
+"xtitle_size": "12pt",
+"strip_text_xsize": "12pt",
+"xsize": "12pt",
 "xangle":        0,
 "xanchor": "middle",
 "ytitle": "noisy copy number logratio signal",
-"ytitle_size": "11pt",
-"strip_text_ysize": "11pt",
-"ysize": "11pt",
+"ytitle_size": "12pt",
+"strip_text_ysize": "12pt",
+"ysize": "12pt",
 "yangle":        0,
 "yanchor": "end",
 "xlabs": [
@@ -706,7 +711,7 @@
 "1" 
 ],
 "title": [ ],
-"title_size": "13.2pt",
+"title_size": "14.4pt",
 "options": {
  "width":      800,
 "height":      300 
@@ -714,7 +719,7 @@
 "span": {
  "rowspan": null,
 "colspan": null,
-"last_in_row": null 
+"last_in_row": true 
 },
 "geoms": [
  "geom1_tallrect_signal",
@@ -725,7 +730,7 @@
 ] 
 },
 "penalty": {
- "panel_margin_lines":        0,
+ "panel_margin_lines":     0.27,
 "legend": {
  "line": {
  "guide": "legend",
